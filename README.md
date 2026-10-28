@@ -1,17 +1,25 @@
 <!-- gully-header:start -->
-<a href="https://gullylabs.xyz"><img src="https://gullychain.xyz/brand/gully-labs/vllm.svg" alt="Gully Labs · Gully AI: vLLM" width="100%"></a>
-
 <p align="center">
-  <a href="https://gullylabs.xyz"><img src="https://img.shields.io/badge/gullylabs.xyz-00D2FF?style=for-the-badge&labelColor=06050D&logo=googlechrome&logoColor=06050D" alt="Website"></a>
-  <a href="https://docs.gullylabs.xyz"><img src="https://img.shields.io/badge/Docs-0B0A16?style=for-the-badge&labelColor=06050D&logo=readthedocs&logoColor=00D2FF" alt="Docs"></a>
-  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0B0A16?style=for-the-badge&labelColor=06050D&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://t.me/GullyLabsNews"><img src="https://img.shields.io/badge/Telegram-0B0A16?style=for-the-badge&labelColor=06050D&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
-  <a href="https://github.com/gully-labs"><img src="https://img.shields.io/badge/GitHub-0B0A16?style=for-the-badge&labelColor=06050D&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://gullyai.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gullyai-logo-transparent.png">
+      <img alt="Gully AI" src=".github/assets/gullyai-logo-on-dark-2172x724.png" width="320">
+    </picture>
+  </a>
 </p>
 
-<p align="center"><b>Gully AI: vLLM: vLLM, the inference engine that serves Gully AI.</b></p>
+<p align="center"><b>Open-weight LLM API, self-hosted for every Gully product.</b></p>
 
-<p align="center"><sub>Maintained by <a href="https://gullylabs.xyz">Gully Labs</a>. Fork of <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a>, used under its Apache-2.0 licence. Not affiliated with or endorsed by the vLLM project.</sub></p>
+<p align="center">vLLM, the inference engine that serves Gully AI.</p>
+
+<p align="center">
+  <a href="https://gullyai.xyz"><img src="https://img.shields.io/badge/gullyai.xyz-00F0F2?style=for-the-badge&labelColor=03070B&logo=googlechrome&logoColor=03070B" alt="Website"></a>
+  <a href="https://docs.gullyai.xyz"><img src="https://img.shields.io/badge/Docs-05090D?style=for-the-badge&labelColor=03070B&logo=readthedocs&logoColor=00F0F2" alt="Docs"></a>
+  <a href="https://discord.com/invite/tY2ErsNNBp"><img src="https://img.shields.io/badge/Discord-05090D?style=for-the-badge&labelColor=03070B&logo=discord&logoColor=5865F2" alt="Discord"></a>
+  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-05090D?style=for-the-badge&labelColor=03070B&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+<p align="center"><sub>A Gully AI fork of <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a>, maintained by <a href="https://gullylabs.xyz">Gully Labs</a>. It is used under its Apache-2.0 licence; the upstream LICENSE, copyright and attribution notices are kept unchanged. The upstream README follows below as published. Not affiliated with or endorsed by vllm-project.</sub></p>
 
 ---
 <!-- gully-header:end -->
@@ -127,3 +135,17 @@ If you use vLLM for your research, please cite our [paper](https://arxiv.org/abs
 ## Media Kit
 
 - If you wish to use vLLM's logo, please refer to [our media kit repo](https://github.com/vllm-project/media-kit)
+
+
+<!-- gully-footer:start -->
+---
+
+<p align="center">
+  <a href="https://gullylabs.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/powered-by-gully-labs-dark-2x.png">
+      <img alt="Powered by Gully Labs" src=".github/assets/powered-by-gully-labs-light-2x.png" width="254" height="64">
+    </picture>
+  </a>
+</p>
+<!-- gully-footer:end -->
